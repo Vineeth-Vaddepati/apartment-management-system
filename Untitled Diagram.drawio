@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" version="24.7.6">
   <diagram name="Page-1" id="0cKK37piDNfDpkpMslB8">
-    <mxGraphModel dx="1035" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -54,13 +54,16 @@
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HcHngkBZ9r_t7SCX0QgI-8" target="HcHngkBZ9r_t7SCX0QgI-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-11" value="Public Parking Space" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="305" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HcHngkBZ9r_t7SCX0QgI-12" value="Shops/vendors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-12" value="Shopping Complex" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="305" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -107,10 +110,13 @@
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-36" value="Apartment Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1580" y="305" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HcHngkBZ9r_t7SCX0QgI-38" target="HcHngkBZ9r_t7SCX0QgI-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-38" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1800" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HcHngkBZ9r_t7SCX0QgI-39" value="Vendor/Shop Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-39" value="Shopping Complex Manager" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1830" y="305" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HcHngkBZ9r_t7SCX0QgI-42" target="HcHngkBZ9r_t7SCX0QgI-45">
@@ -125,7 +131,7 @@
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-45" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1550" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HcHngkBZ9r_t7SCX0QgI-47" value="Tenant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-47" value="Flat Tenant" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1580" y="585" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -133,6 +139,21 @@
         </mxCell>
         <mxCell id="HcHngkBZ9r_t7SCX0QgI-48" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Roles&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1690" y="95" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="HcHngkBZ9r_t7SCX0QgI-54" target="HcHngkBZ9r_t7SCX0QgI-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-54" value="Shop Owner" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-56" value="Shop Tenant" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1800" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HcHngkBZ9r_t7SCX0QgI-58" value="Shops" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="430" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
